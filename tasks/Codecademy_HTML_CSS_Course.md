@@ -16,9 +16,7 @@ CSS: https://www.codecademy.com/learn/learn-css
   - The Box Model
   - CSS Color
   - CSS Typography
-  
-*Optional
   - CSS Display and Positioning
-
+  
 #### 3. Badges for completion will be the proof of your work.
 
