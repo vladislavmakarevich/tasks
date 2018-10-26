@@ -24,7 +24,7 @@ Codewars:
      22. http://www.codewars.com/kata/stringing-me-along
      23. http://www.codewars.com/kata/i-spy
      24. http://www.codewars.com/kata/calculating-with-functions
-     25. http://www.codewars.com/kata/santaclausable-interface
+     +25. http://www.codewars.com/kata/santaclausable-interface
      26. http://www.codewars.com/kata/new-with-apply
      27. http://www.codewars.com/kata/extract-nested-object-reference
      28. http://www.codewars.com/kata/array-helpers
